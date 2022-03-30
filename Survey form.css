@@ -1,0 +1,24 @@
+body{
+    font-family: monospace;
+    line-height: 1.5;
+    background-image: linear-gradient(180deg, rgb(18, 190, 18), rgb(16, 16, 204));
+    width: 500px;
+    margin: auto;
+}
+form{
+    padding: 2rem 2rem;
+    width: 300px;
+    margin: auto;
+}
+h1{
+    padding: auto;
+    margin: auto;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.submit-button{
+    cursor: pointer;
+}
+
